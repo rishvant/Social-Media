@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 # Social App using React.js
 
 ## Live website
-https://todo-app-rishvant.vercel.app
+https://social-app-rishvant.vercel.app
 
 ## For local developent
 
